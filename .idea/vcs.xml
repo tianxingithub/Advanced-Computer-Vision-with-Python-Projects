@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/FaceDetectionProject" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/FaceMeshProject" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/HandControlVolumeProject" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/VitualMouseProject" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/VitualPaintingProject" vcs="Git" />
+  </component>
+</project>
